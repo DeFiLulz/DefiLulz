@@ -2,11 +2,14 @@
   🧠 DefiLulz 🚀
 </h1>
 
-<h3 align="center">On-chain native. Off-chain skeptical.  
+<h3 align="center">
+  On-chain native. Off-chain skeptical.  
   Building permissionless future.
 </h3>
 
-🌐 About Me
+---
+
+## 🌐 About Me
 
 I’m **DefiLulz** — a full-stack blockchain builder, DeFi degen, smart contract architect, and tokenomics experimenter.
 
@@ -21,7 +24,7 @@ I don’t just write code — I encode trust, incentives, and freedom into compo
 
 ---
 
- 🧰 Tech Stack
+## 🧰 Tech Stack
 
 | 💡 Languages | 🧪 Tooling | 🪐 Domains |
 |-------------|-----------|------------|
@@ -31,7 +34,7 @@ I build with both **EVM** and **Solana** ecosystems in mind — bridging UX with
 
 ---
 
-⚙️ Areas of Play
+## ⚙️ Areas of Play
 
 - 🧱 Yield vaults & staking logic  
 - 🛠️ Smart contract optimization (EVM + Solana)  
@@ -41,7 +44,7 @@ I build with both **EVM** and **Solana** ecosystems in mind — bridging UX with
 
 ---
 
-🔓 Ethos
+## 🔓 Ethos
 
 > "Own your keys. Own your data. Own your destiny."
 
@@ -54,7 +57,7 @@ I believe in:
 
 ---
 
-⚡ Fun Facts
+## ⚡ Fun Facts
 
 - I've broken more smart contracts than I’ve launched (on testnets).  
 - I track wallets the way others follow influencers.  
@@ -63,7 +66,7 @@ I believe in:
 
 ---
 
-📡 Connect With Me
+## 📡 Connect With Me
 
 | Platform | Link |
 |---------|------|
