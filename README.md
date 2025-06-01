@@ -1,17 +1,21 @@
+<p align="center">
+  <img src="https://your-image-host.com/banner.png" alt="DefiLulz Banner" width="100%" />
+</p>
+
 <h1 align="center">
   DefiLulz
 </h1>
 
 <h3 align="center">
-  On-chain native. Off-chain skeptical.  
-  Building permissionless future.
+  Web3 Researcher • Smart Contract Developer • DeFi Architect  
+  Building permissionless futures across Ethereum & Solana.
 </h3>
 
 ---
 
 ##  About Me
 
-I’m **DefiLulz** — a full-stack blockchain builder, DeFi degen, smart contract architect, and tokenomics experimenter.
+I’m **DefiLulz** — a full-stack blockchain builder, DeFi degen, **Web3 researcher**, smart contract architect, and tokenomics experimenter.
 
 I operate at the edge of:
 - ⛓️ Ethereum's security  
@@ -24,7 +28,7 @@ I don’t just write code — I encode trust, incentives, and freedom into compo
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 | 💡 Languages | 🧪 Tooling | 🪐 Domains |
 |-------------|-----------|------------|
