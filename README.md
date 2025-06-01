@@ -1,5 +1,5 @@
 <p align="center">
-  <img [src="https://your-image-host.com/banner.png](https://github.com/DeFiLulz/DefiLulz/issues/1#issue-3107902749)" alt="DefiLulz Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/a1688369-bd34-47b8-8fe0-e9bc8ac99d7f" alt="DefiLulz Banner" width="100%" />
 </p>
 
 <h1 align="center">
