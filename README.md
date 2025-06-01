@@ -1,5 +1,5 @@
 <h1 align="center">
-  🧠 DefiLulz 🚀
+  DefiLulz
 </h1>
 
 <h3 align="center">
