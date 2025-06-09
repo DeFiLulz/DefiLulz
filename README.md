@@ -78,5 +78,5 @@ Come build, break, degen, or discuss tokenomics with me.
 <p align="center">
    “Decentralize Everything. And Make It Fast.”  
   <br/><br/>
-  <em>— DefiLulz </em>
+  <em>— DeFiLulz </em>
 </p>
