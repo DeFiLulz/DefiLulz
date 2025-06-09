@@ -1,11 +1,6 @@
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/97355393/452921297-e25844d8-7c6f-4aed-9844-5c46c43b64c9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk0NTY4MDEsIm5iZiI6MTc0OTQ1NjUwMSwicGF0aCI6Ii85NzM1NTM5My80NTI5MjEyOTctZTI1ODQ0ZDgtN2M2Zi00YWVkLTk4NDQtNWM0NmM0M2I2NGM5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA5VDA4MDgyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM2MmYyYjJmYTE0N2Q5MzJlNzJjYWExZDI5YzllZDdlZGUzYzE2OGU3MmYyYzc5NjFmODZjZmRiMDA1NGUyYjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.F77EUksCbdkD-ZCa8FUYiO9xSB75pkd3dftsa7cMjuI" alt="DefiLulz Banner" width="100%" />
 </p>
-
-<h1 align="center">
-  DeFiLulz
-</h1>
-
 <h3 align="center">
   Web3 Researcher | Smart Contract Engineer | DeFi Architect
 </h3>
