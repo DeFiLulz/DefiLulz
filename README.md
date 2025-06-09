@@ -14,7 +14,7 @@
 
 ##  About Me
 
-I’m **DefiLulz** — a full-stack blockchain builder, DeFi degen, **Web3 researcher**, smart contract architect, and tokenomics experimenter.
+I’m **DeFiLulz** — a full-stack blockchain builder, DeFi degen, **Web3 researcher**, smart contract architect, and tokenomics experimenter.
 
 I operate at the edge of:
 - ⛓️ Ethereum's security  
@@ -73,8 +73,8 @@ I believe in:
 
 | Platform | Link |
 |---------|------|
-| 🐦 X (Twitter) | [@defilulz](https://x.com/defilulz) |
-| 💻 GitHub | [defilulz](https://github.com/defilulz) |
+| 🐦 X (Twitter) | [@DeFiLulz](https://x.com/DeFiLulz) |
+| 💻 GitHub | [DeFiLulz](https://github.com/DeFiLulz) |
 
 Come build, break, degen, or discuss tokenomics with me.
 
