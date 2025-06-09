@@ -7,8 +7,7 @@
 </h1>
 
 <h3 align="center">
-  Web3 Researcher • Smart Contract Developer • DeFi Architect  
-  Building permissionless futures across Ethereum & Solana.
+  Web3 Researcher | Smart Contract Engineer | DeFi Architect
 </h3>
 
 ---
